@@ -12,6 +12,8 @@
 
 ***
 
+I need to highlight these ==very important words==.
+
 1. a
   1. a1
 2. 2
@@ -49,5 +51,3 @@ my favourite website is [Husob](https://academy.hsoub.com/ "Husob acadmy")
 
 Gone camping! :tent: Be back soon.
 That is so funny! :joy:
-
-==python is fun==
